@@ -6,4 +6,5 @@ My current goal is to become a Software Developer. Feel free to check my [reposi
 
 ## Technology Stack:
 
+<img src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg>
 
