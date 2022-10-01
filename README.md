@@ -4,6 +4,6 @@ Hey! I'm José, soon-to-be Master in Theoretical Physics who is passionate about
 
 My current goal is to become a Software Developer. Feel free to check my [repositories](https://github.com/miniplanck?tab=repositories).
 
-Technology Stack:
+##Technology Stack:
 
 
