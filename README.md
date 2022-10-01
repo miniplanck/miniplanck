@@ -6,5 +6,5 @@ My current goal is to become a Software Developer. Feel free to check my [reposi
 
 ## Technology Stack:
 
-<img src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg alt="JavaScript Logo" width="50px" height="50px" padding-righ="10px">
+<a href="https://www.javascript.com/"><img src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg alt="JavaScript Logo" width="50px" height="50px" padding-righ="10px"></a>
 
